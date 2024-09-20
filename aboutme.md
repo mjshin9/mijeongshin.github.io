@@ -4,13 +4,6 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello and Welcome! I am an Associate Professor at the School of Public Economics and Administration, Shanghai University of Finance and Economics. I received my Ph.D. in Political Science from Washington University in St. Louis. My research interests include international and comparative political economy, public opinion, and policy issues in East Asia. I use quantitative methods to answer theoretically interesting questions. My work has been published in Comparative Political Studies, International Interactions, and International Political Science Review among others. I have also served as an editorial board member for International Interactions since 2021.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
